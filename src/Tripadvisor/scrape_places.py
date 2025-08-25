@@ -154,7 +154,7 @@ def save_to_csv(data, filename):
     df = pd.DataFrame(data)
     df.to_csv(filename, index=False)
 
-cities = ["Agadir", "Casablanca", "Fes", "Tanger", "Essaouira",
+cities = ["Marrakech","Agadir", "Casablanca", "Fes", "Tanger", "Essaouira",
               "Chefchaouen", "Ouarzazate" ,"Merzouga", "Rabat", "Meknes","Tetouan",
               "Al Hoceima", "Oujda", "Saidia", "Laayoune", "Dakhla"]
 

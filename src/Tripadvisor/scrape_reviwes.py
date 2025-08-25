@@ -118,4 +118,4 @@ def scrape_reviews(df):
 if __name__ == '__main__':
     df=pd.read_csv("src/all_places.csv")
     results=scrape_reviews(df)
-    save_to_csv(results,"data/TripAdvisor_reviews_test.csv")
+    save_to_csv(results,"data/Tripadvisor_reviews.csv")
