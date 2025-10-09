@@ -1,0 +1,4125 @@
+{
+  "keyword": "rabat",
+  "status": "success",
+  "data_points": 186,
+  "timeline": [
+    {
+      "date": "Jan 2010",
+      "timestamp": "1262304000",
+      "values": [
+        {
+          "query": "rabat",
+          "value": "43",
+          "extracted_value": 43
+        }
+      ]
+    },
+    {
+      "date": "Feb 2010",
+      "timestamp": "1264982400",
+      "values": [
+        {
+          "query": "rabat",
+          "value": "47",
+          "extracted_value": 47
+        }
+      ]
+    },
+    {
+      "date": "Mar 2010",
+      "timestamp": "1267401600",
+      "values": [
+        {
+          "query": "rabat",
+          "value": "52",
+          "extracted_value": 52
+        }
+      ]
+    },
+    {
+      "date": "Apr 2010",
+      "timestamp": "1270080000",
+      "values": [
+        {
+          "query": "rabat",
+          "value": "53",
+          "extracted_value": 53
+        }
+      ]
+    },
+    {
+      "date": "May 2010",
+      "timestamp": "1272672000",
+      "values": [
+        {
+          "query": "rabat",
+          "value": "56",
+          "extracted_value": 56
+        }
+      ]
+    },
+    {
+      "date": "Jun 2010",
+      "timestamp": "1275350400",
+      "values": [
+        {
+          "query": "rabat",
+          "value": "58",
+          "extracted_value": 58
+        }
+      ]
+    },
+    {
+      "date": "Jul 2010",
+      "timestamp": "1277942400",
+      "values": [
+        {
+          "query": "rabat",
+          "value": "61",
+          "extracted_value": 61
+        }
+      ]
+    },
+    {
+      "date": "Aug 2010",
+      "timestamp": "1280620800",
+      "values": [
+        {
+          "query": "rabat",
+          "value": "51",
+          "extracted_value": 51
+        }
+      ]
+    },
+    {
+      "date": "Sep 2010",
+      "timestamp": "1283299200",
+      "values": [
+        {
+          "query": "rabat",
+          "value": "57",
+          "extracted_value": 57
+        }
+      ]
+    },
+    {
+      "date": "Oct 2010",
+      "timestamp": "1285891200",
+      "values": [
+        {
+          "query": "rabat",
+          "value": "53",
+          "extracted_value": 53
+        }
+      ]
+    },
+    {
+      "date": "Nov 2010",
+      "timestamp": "1288569600",
+      "values": [
+        {
+          "query": "rabat",
+          "value": "46",
+          "extracted_value": 46
+        }
+      ]
+    },
+    {
+      "date": "Dec 2010",
+      "timestamp": "1291161600",
+      "values": [
+        {
+          "query": "rabat",
+          "value": "52",
+          "extracted_value": 52
+        }
+      ]
+    },
+    {
+      "date": "Jan 2011",
+      "timestamp": "1293840000",
+      "values": [
+        {
+          "query": "rabat",
+          "value": "46",
+          "extracted_value": 46
+        }
+      ]
+    },
+    {
+      "date": "Feb 2011",
+      "timestamp": "1296518400",
+      "values": [
+        {
+          "query": "rabat",
+          "value": "47",
+          "extracted_value": 47
+        }
+      ]
+    },
+    {
+      "date": "Mar 2011",
+      "timestamp": "1298937600",
+      "values": [
+        {
+          "query": "rabat",
+          "value": "48",
+          "extracted_value": 48
+        }
+      ]
+    },
+    {
+      "date": "Apr 2011",
+      "timestamp": "1301616000",
+      "values": [
+        {
+          "query": "rabat",
+          "value": "54",
+          "extracted_value": 54
+        }
+      ]
+    },
+    {
+      "date": "May 2011",
+      "timestamp": "1304208000",
+      "values": [
+        {
+          "query": "rabat",
+          "value": "58",
+          "extracted_value": 58
+        }
+      ]
+    },
+    {
+      "date": "Jun 2011",
+      "timestamp": "1306886400",
+      "values": [
+        {
+          "query": "rabat",
+          "value": "58",
+          "extracted_value": 58
+        }
+      ]
+    },
+    {
+      "date": "Jul 2011",
+      "timestamp": "1309478400",
+      "values": [
+        {
+          "query": "rabat",
+          "value": "61",
+          "extracted_value": 61
+        }
+      ]
+    },
+    {
+      "date": "Aug 2011",
+      "timestamp": "1312156800",
+      "values": [
+        {
+          "query": "rabat",
+          "value": "58",
+          "extracted_value": 58
+        }
+      ]
+    },
+    {
+      "date": "Sep 2011",
+      "timestamp": "1314835200",
+      "values": [
+        {
+          "query": "rabat",
+          "value": "65",
+          "extracted_value": 65
+        }
+      ]
+    },
+    {
+      "date": "Oct 2011",
+      "timestamp": "1317427200",
+      "values": [
+        {
+          "query": "rabat",
+          "value": "57",
+          "extracted_value": 57
+        }
+      ]
+    },
+    {
+      "date": "Nov 2011",
+      "timestamp": "1320105600",
+      "values": [
+        {
+          "query": "rabat",
+          "value": "53",
+          "extracted_value": 53
+        }
+      ]
+    },
+    {
+      "date": "Dec 2011",
+      "timestamp": "1322697600",
+      "values": [
+        {
+          "query": "rabat",
+          "value": "54",
+          "extracted_value": 54
+        }
+      ]
+    },
+    {
+      "date": "Jan 2012",
+      "timestamp": "1325376000",
+      "values": [
+        {
+          "query": "rabat",
+          "value": "53",
+          "extracted_value": 53
+        }
+      ]
+    },
+    {
+      "date": "Feb 2012",
+      "timestamp": "1328054400",
+      "values": [
+        {
+          "query": "rabat",
+          "value": "56",
+          "extracted_value": 56
+        }
+      ]
+    },
+    {
+      "date": "Mar 2012",
+      "timestamp": "1330560000",
+      "values": [
+        {
+          "query": "rabat",
+          "value": "56",
+          "extracted_value": 56
+        }
+      ]
+    },
+    {
+      "date": "Apr 2012",
+      "timestamp": "1333238400",
+      "values": [
+        {
+          "query": "rabat",
+          "value": "57",
+          "extracted_value": 57
+        }
+      ]
+    },
+    {
+      "date": "May 2012",
+      "timestamp": "1335830400",
+      "values": [
+        {
+          "query": "rabat",
+          "value": "60",
+          "extracted_value": 60
+        }
+      ]
+    },
+    {
+      "date": "Jun 2012",
+      "timestamp": "1338508800",
+      "values": [
+        {
+          "query": "rabat",
+          "value": "61",
+          "extracted_value": 61
+        }
+      ]
+    },
+    {
+      "date": "Jul 2012",
+      "timestamp": "1341100800",
+      "values": [
+        {
+          "query": "rabat",
+          "value": "71",
+          "extracted_value": 71
+        }
+      ]
+    },
+    {
+      "date": "Aug 2012",
+      "timestamp": "1343779200",
+      "values": [
+        {
+          "query": "rabat",
+          "value": "58",
+          "extracted_value": 58
+        }
+      ]
+    },
+    {
+      "date": "Sep 2012",
+      "timestamp": "1346457600",
+      "values": [
+        {
+          "query": "rabat",
+          "value": "65",
+          "extracted_value": 65
+        }
+      ]
+    },
+    {
+      "date": "Oct 2012",
+      "timestamp": "1349049600",
+      "values": [
+        {
+          "query": "rabat",
+          "value": "56",
+          "extracted_value": 56
+        }
+      ]
+    },
+    {
+      "date": "Nov 2012",
+      "timestamp": "1351728000",
+      "values": [
+        {
+          "query": "rabat",
+          "value": "54",
+          "extracted_value": 54
+        }
+      ]
+    },
+    {
+      "date": "Dec 2012",
+      "timestamp": "1354320000",
+      "values": [
+        {
+          "query": "rabat",
+          "value": "55",
+          "extracted_value": 55
+        }
+      ]
+    },
+    {
+      "date": "Jan 2013",
+      "timestamp": "1356998400",
+      "values": [
+        {
+          "query": "rabat",
+          "value": "53",
+          "extracted_value": 53
+        }
+      ]
+    },
+    {
+      "date": "Feb 2013",
+      "timestamp": "1359676800",
+      "values": [
+        {
+          "query": "rabat",
+          "value": "56",
+          "extracted_value": 56
+        }
+      ]
+    },
+    {
+      "date": "Mar 2013",
+      "timestamp": "1362096000",
+      "values": [
+        {
+          "query": "rabat",
+          "value": "65",
+          "extracted_value": 65
+        }
+      ]
+    },
+    {
+      "date": "Apr 2013",
+      "timestamp": "1364774400",
+      "values": [
+        {
+          "query": "rabat",
+          "value": "62",
+          "extracted_value": 62
+        }
+      ]
+    },
+    {
+      "date": "May 2013",
+      "timestamp": "1367366400",
+      "values": [
+        {
+          "query": "rabat",
+          "value": "60",
+          "extracted_value": 60
+        }
+      ]
+    },
+    {
+      "date": "Jun 2013",
+      "timestamp": "1370044800",
+      "values": [
+        {
+          "query": "rabat",
+          "value": "58",
+          "extracted_value": 58
+        }
+      ]
+    },
+    {
+      "date": "Jul 2013",
+      "timestamp": "1372636800",
+      "values": [
+        {
+          "query": "rabat",
+          "value": "74",
+          "extracted_value": 74
+        }
+      ]
+    },
+    {
+      "date": "Aug 2013",
+      "timestamp": "1375315200",
+      "values": [
+        {
+          "query": "rabat",
+          "value": "61",
+          "extracted_value": 61
+        }
+      ]
+    },
+    {
+      "date": "Sep 2013",
+      "timestamp": "1377993600",
+      "values": [
+        {
+          "query": "rabat",
+          "value": "70",
+          "extracted_value": 70
+        }
+      ]
+    },
+    {
+      "date": "Oct 2013",
+      "timestamp": "1380585600",
+      "values": [
+        {
+          "query": "rabat",
+          "value": "61",
+          "extracted_value": 61
+        }
+      ]
+    },
+    {
+      "date": "Nov 2013",
+      "timestamp": "1383264000",
+      "values": [
+        {
+          "query": "rabat",
+          "value": "62",
+          "extracted_value": 62
+        }
+      ]
+    },
+    {
+      "date": "Dec 2013",
+      "timestamp": "1385856000",
+      "values": [
+        {
+          "query": "rabat",
+          "value": "63",
+          "extracted_value": 63
+        }
+      ]
+    },
+    {
+      "date": "Jan 2014",
+      "timestamp": "1388534400",
+      "values": [
+        {
+          "query": "rabat",
+          "value": "62",
+          "extracted_value": 62
+        }
+      ]
+    },
+    {
+      "date": "Feb 2014",
+      "timestamp": "1391212800",
+      "values": [
+        {
+          "query": "rabat",
+          "value": "62",
+          "extracted_value": 62
+        }
+      ]
+    },
+    {
+      "date": "Mar 2014",
+      "timestamp": "1393632000",
+      "values": [
+        {
+          "query": "rabat",
+          "value": "62",
+          "extracted_value": 62
+        }
+      ]
+    },
+    {
+      "date": "Apr 2014",
+      "timestamp": "1396310400",
+      "values": [
+        {
+          "query": "rabat",
+          "value": "67",
+          "extracted_value": 67
+        }
+      ]
+    },
+    {
+      "date": "May 2014",
+      "timestamp": "1398902400",
+      "values": [
+        {
+          "query": "rabat",
+          "value": "68",
+          "extracted_value": 68
+        }
+      ]
+    },
+    {
+      "date": "Jun 2014",
+      "timestamp": "1401580800",
+      "values": [
+        {
+          "query": "rabat",
+          "value": "71",
+          "extracted_value": 71
+        }
+      ]
+    },
+    {
+      "date": "Jul 2014",
+      "timestamp": "1404172800",
+      "values": [
+        {
+          "query": "rabat",
+          "value": "73",
+          "extracted_value": 73
+        }
+      ]
+    },
+    {
+      "date": "Aug 2014",
+      "timestamp": "1406851200",
+      "values": [
+        {
+          "query": "rabat",
+          "value": "67",
+          "extracted_value": 67
+        }
+      ]
+    },
+    {
+      "date": "Sep 2014",
+      "timestamp": "1409529600",
+      "values": [
+        {
+          "query": "rabat",
+          "value": "79",
+          "extracted_value": 79
+        }
+      ]
+    },
+    {
+      "date": "Oct 2014",
+      "timestamp": "1412121600",
+      "values": [
+        {
+          "query": "rabat",
+          "value": "70",
+          "extracted_value": 70
+        }
+      ]
+    },
+    {
+      "date": "Nov 2014",
+      "timestamp": "1414800000",
+      "values": [
+        {
+          "query": "rabat",
+          "value": "76",
+          "extracted_value": 76
+        }
+      ]
+    },
+    {
+      "date": "Dec 2014",
+      "timestamp": "1417392000",
+      "values": [
+        {
+          "query": "rabat",
+          "value": "75",
+          "extracted_value": 75
+        }
+      ]
+    },
+    {
+      "date": "Jan 2015",
+      "timestamp": "1420070400",
+      "values": [
+        {
+          "query": "rabat",
+          "value": "64",
+          "extracted_value": 64
+        }
+      ]
+    },
+    {
+      "date": "Feb 2015",
+      "timestamp": "1422748800",
+      "values": [
+        {
+          "query": "rabat",
+          "value": "68",
+          "extracted_value": 68
+        }
+      ]
+    },
+    {
+      "date": "Mar 2015",
+      "timestamp": "1425168000",
+      "values": [
+        {
+          "query": "rabat",
+          "value": "71",
+          "extracted_value": 71
+        }
+      ]
+    },
+    {
+      "date": "Apr 2015",
+      "timestamp": "1427846400",
+      "values": [
+        {
+          "query": "rabat",
+          "value": "67",
+          "extracted_value": 67
+        }
+      ]
+    },
+    {
+      "date": "May 2015",
+      "timestamp": "1430438400",
+      "values": [
+        {
+          "query": "rabat",
+          "value": "70",
+          "extracted_value": 70
+        }
+      ]
+    },
+    {
+      "date": "Jun 2015",
+      "timestamp": "1433116800",
+      "values": [
+        {
+          "query": "rabat",
+          "value": "71",
+          "extracted_value": 71
+        }
+      ]
+    },
+    {
+      "date": "Jul 2015",
+      "timestamp": "1435708800",
+      "values": [
+        {
+          "query": "rabat",
+          "value": "81",
+          "extracted_value": 81
+        }
+      ]
+    },
+    {
+      "date": "Aug 2015",
+      "timestamp": "1438387200",
+      "values": [
+        {
+          "query": "rabat",
+          "value": "66",
+          "extracted_value": 66
+        }
+      ]
+    },
+    {
+      "date": "Sep 2015",
+      "timestamp": "1441065600",
+      "values": [
+        {
+          "query": "rabat",
+          "value": "73",
+          "extracted_value": 73
+        }
+      ]
+    },
+    {
+      "date": "Oct 2015",
+      "timestamp": "1443657600",
+      "values": [
+        {
+          "query": "rabat",
+          "value": "77",
+          "extracted_value": 77
+        }
+      ]
+    },
+    {
+      "date": "Nov 2015",
+      "timestamp": "1446336000",
+      "values": [
+        {
+          "query": "rabat",
+          "value": "69",
+          "extracted_value": 69
+        }
+      ]
+    },
+    {
+      "date": "Dec 2015",
+      "timestamp": "1448928000",
+      "values": [
+        {
+          "query": "rabat",
+          "value": "68",
+          "extracted_value": 68
+        }
+      ]
+    },
+    {
+      "date": "Jan 2016",
+      "timestamp": "1451606400",
+      "values": [
+        {
+          "query": "rabat",
+          "value": "66",
+          "extracted_value": 66
+        }
+      ]
+    },
+    {
+      "date": "Feb 2016",
+      "timestamp": "1454284800",
+      "values": [
+        {
+          "query": "rabat",
+          "value": "66",
+          "extracted_value": 66
+        }
+      ]
+    },
+    {
+      "date": "Mar 2016",
+      "timestamp": "1456790400",
+      "values": [
+        {
+          "query": "rabat",
+          "value": "70",
+          "extracted_value": 70
+        }
+      ]
+    },
+    {
+      "date": "Apr 2016",
+      "timestamp": "1459468800",
+      "values": [
+        {
+          "query": "rabat",
+          "value": "66",
+          "extracted_value": 66
+        }
+      ]
+    },
+    {
+      "date": "May 2016",
+      "timestamp": "1462060800",
+      "values": [
+        {
+          "query": "rabat",
+          "value": "70",
+          "extracted_value": 70
+        }
+      ]
+    },
+    {
+      "date": "Jun 2016",
+      "timestamp": "1464739200",
+      "values": [
+        {
+          "query": "rabat",
+          "value": "65",
+          "extracted_value": 65
+        }
+      ]
+    },
+    {
+      "date": "Jul 2016",
+      "timestamp": "1467331200",
+      "values": [
+        {
+          "query": "rabat",
+          "value": "76",
+          "extracted_value": 76
+        }
+      ]
+    },
+    {
+      "date": "Aug 2016",
+      "timestamp": "1470009600",
+      "values": [
+        {
+          "query": "rabat",
+          "value": "61",
+          "extracted_value": 61
+        }
+      ]
+    },
+    {
+      "date": "Sep 2016",
+      "timestamp": "1472688000",
+      "values": [
+        {
+          "query": "rabat",
+          "value": "67",
+          "extracted_value": 67
+        }
+      ]
+    },
+    {
+      "date": "Oct 2016",
+      "timestamp": "1475280000",
+      "values": [
+        {
+          "query": "rabat",
+          "value": "69",
+          "extracted_value": 69
+        }
+      ]
+    },
+    {
+      "date": "Nov 2016",
+      "timestamp": "1477958400",
+      "values": [
+        {
+          "query": "rabat",
+          "value": "67",
+          "extracted_value": 67
+        }
+      ]
+    },
+    {
+      "date": "Dec 2016",
+      "timestamp": "1480550400",
+      "values": [
+        {
+          "query": "rabat",
+          "value": "64",
+          "extracted_value": 64
+        }
+      ]
+    },
+    {
+      "date": "Jan 2017",
+      "timestamp": "1483228800",
+      "values": [
+        {
+          "query": "rabat",
+          "value": "64",
+          "extracted_value": 64
+        }
+      ]
+    },
+    {
+      "date": "Feb 2017",
+      "timestamp": "1485907200",
+      "values": [
+        {
+          "query": "rabat",
+          "value": "66",
+          "extracted_value": 66
+        }
+      ]
+    },
+    {
+      "date": "Mar 2017",
+      "timestamp": "1488326400",
+      "values": [
+        {
+          "query": "rabat",
+          "value": "67",
+          "extracted_value": 67
+        }
+      ]
+    },
+    {
+      "date": "Apr 2017",
+      "timestamp": "1491004800",
+      "values": [
+        {
+          "query": "rabat",
+          "value": "66",
+          "extracted_value": 66
+        }
+      ]
+    },
+    {
+      "date": "May 2017",
+      "timestamp": "1493596800",
+      "values": [
+        {
+          "query": "rabat",
+          "value": "64",
+          "extracted_value": 64
+        }
+      ]
+    },
+    {
+      "date": "Jun 2017",
+      "timestamp": "1496275200",
+      "values": [
+        {
+          "query": "rabat",
+          "value": "62",
+          "extracted_value": 62
+        }
+      ]
+    },
+    {
+      "date": "Jul 2017",
+      "timestamp": "1498867200",
+      "values": [
+        {
+          "query": "rabat",
+          "value": "79",
+          "extracted_value": 79
+        }
+      ]
+    },
+    {
+      "date": "Aug 2017",
+      "timestamp": "1501545600",
+      "values": [
+        {
+          "query": "rabat",
+          "value": "65",
+          "extracted_value": 65
+        }
+      ]
+    },
+    {
+      "date": "Sep 2017",
+      "timestamp": "1504224000",
+      "values": [
+        {
+          "query": "rabat",
+          "value": "66",
+          "extracted_value": 66
+        }
+      ]
+    },
+    {
+      "date": "Oct 2017",
+      "timestamp": "1506816000",
+      "values": [
+        {
+          "query": "rabat",
+          "value": "71",
+          "extracted_value": 71
+        }
+      ]
+    },
+    {
+      "date": "Nov 2017",
+      "timestamp": "1509494400",
+      "values": [
+        {
+          "query": "rabat",
+          "value": "65",
+          "extracted_value": 65
+        }
+      ]
+    },
+    {
+      "date": "Dec 2017",
+      "timestamp": "1512086400",
+      "values": [
+        {
+          "query": "rabat",
+          "value": "69",
+          "extracted_value": 69
+        }
+      ]
+    },
+    {
+      "date": "Jan 2018",
+      "timestamp": "1514764800",
+      "values": [
+        {
+          "query": "rabat",
+          "value": "68",
+          "extracted_value": 68
+        }
+      ]
+    },
+    {
+      "date": "Feb 2018",
+      "timestamp": "1517443200",
+      "values": [
+        {
+          "query": "rabat",
+          "value": "72",
+          "extracted_value": 72
+        }
+      ]
+    },
+    {
+      "date": "Mar 2018",
+      "timestamp": "1519862400",
+      "values": [
+        {
+          "query": "rabat",
+          "value": "81",
+          "extracted_value": 81
+        }
+      ]
+    },
+    {
+      "date": "Apr 2018",
+      "timestamp": "1522540800",
+      "values": [
+        {
+          "query": "rabat",
+          "value": "75",
+          "extracted_value": 75
+        }
+      ]
+    },
+    {
+      "date": "May 2018",
+      "timestamp": "1525132800",
+      "values": [
+        {
+          "query": "rabat",
+          "value": "71",
+          "extracted_value": 71
+        }
+      ]
+    },
+    {
+      "date": "Jun 2018",
+      "timestamp": "1527811200",
+      "values": [
+        {
+          "query": "rabat",
+          "value": "68",
+          "extracted_value": 68
+        }
+      ]
+    },
+    {
+      "date": "Jul 2018",
+      "timestamp": "1530403200",
+      "values": [
+        {
+          "query": "rabat",
+          "value": "81",
+          "extracted_value": 81
+        }
+      ]
+    },
+    {
+      "date": "Aug 2018",
+      "timestamp": "1533081600",
+      "values": [
+        {
+          "query": "rabat",
+          "value": "73",
+          "extracted_value": 73
+        }
+      ]
+    },
+    {
+      "date": "Sep 2018",
+      "timestamp": "1535760000",
+      "values": [
+        {
+          "query": "rabat",
+          "value": "70",
+          "extracted_value": 70
+        }
+      ]
+    },
+    {
+      "date": "Oct 2018",
+      "timestamp": "1538352000",
+      "values": [
+        {
+          "query": "rabat",
+          "value": "75",
+          "extracted_value": 75
+        }
+      ]
+    },
+    {
+      "date": "Nov 2018",
+      "timestamp": "1541030400",
+      "values": [
+        {
+          "query": "rabat",
+          "value": "72",
+          "extracted_value": 72
+        }
+      ]
+    },
+    {
+      "date": "Dec 2018",
+      "timestamp": "1543622400",
+      "values": [
+        {
+          "query": "rabat",
+          "value": "66",
+          "extracted_value": 66
+        }
+      ]
+    },
+    {
+      "date": "Jan 2019",
+      "timestamp": "1546300800",
+      "values": [
+        {
+          "query": "rabat",
+          "value": "69",
+          "extracted_value": 69
+        }
+      ]
+    },
+    {
+      "date": "Feb 2019",
+      "timestamp": "1548979200",
+      "values": [
+        {
+          "query": "rabat",
+          "value": "66",
+          "extracted_value": 66
+        }
+      ]
+    },
+    {
+      "date": "Mar 2019",
+      "timestamp": "1551398400",
+      "values": [
+        {
+          "query": "rabat",
+          "value": "72",
+          "extracted_value": 72
+        }
+      ]
+    },
+    {
+      "date": "Apr 2019",
+      "timestamp": "1554076800",
+      "values": [
+        {
+          "query": "rabat",
+          "value": "74",
+          "extracted_value": 74
+        }
+      ]
+    },
+    {
+      "date": "May 2019",
+      "timestamp": "1556668800",
+      "values": [
+        {
+          "query": "rabat",
+          "value": "68",
+          "extracted_value": 68
+        }
+      ]
+    },
+    {
+      "date": "Jun 2019",
+      "timestamp": "1559347200",
+      "values": [
+        {
+          "query": "rabat",
+          "value": "76",
+          "extracted_value": 76
+        }
+      ]
+    },
+    {
+      "date": "Jul 2019",
+      "timestamp": "1561939200",
+      "values": [
+        {
+          "query": "rabat",
+          "value": "81",
+          "extracted_value": 81
+        }
+      ]
+    },
+    {
+      "date": "Aug 2019",
+      "timestamp": "1564617600",
+      "values": [
+        {
+          "query": "rabat",
+          "value": "71",
+          "extracted_value": 71
+        }
+      ]
+    },
+    {
+      "date": "Sep 2019",
+      "timestamp": "1567296000",
+      "values": [
+        {
+          "query": "rabat",
+          "value": "71",
+          "extracted_value": 71
+        }
+      ]
+    },
+    {
+      "date": "Oct 2019",
+      "timestamp": "1569888000",
+      "values": [
+        {
+          "query": "rabat",
+          "value": "75",
+          "extracted_value": 75
+        }
+      ]
+    },
+    {
+      "date": "Nov 2019",
+      "timestamp": "1572566400",
+      "values": [
+        {
+          "query": "rabat",
+          "value": "81",
+          "extracted_value": 81
+        }
+      ]
+    },
+    {
+      "date": "Dec 2019",
+      "timestamp": "1575158400",
+      "values": [
+        {
+          "query": "rabat",
+          "value": "77",
+          "extracted_value": 77
+        }
+      ]
+    },
+    {
+      "date": "Jan 2020",
+      "timestamp": "1577836800",
+      "values": [
+        {
+          "query": "rabat",
+          "value": "71",
+          "extracted_value": 71
+        }
+      ]
+    },
+    {
+      "date": "Feb 2020",
+      "timestamp": "1580515200",
+      "values": [
+        {
+          "query": "rabat",
+          "value": "72",
+          "extracted_value": 72
+        }
+      ]
+    },
+    {
+      "date": "Mar 2020",
+      "timestamp": "1583020800",
+      "values": [
+        {
+          "query": "rabat",
+          "value": "54",
+          "extracted_value": 54
+        }
+      ]
+    },
+    {
+      "date": "Apr 2020",
+      "timestamp": "1585699200",
+      "values": [
+        {
+          "query": "rabat",
+          "value": "43",
+          "extracted_value": 43
+        }
+      ]
+    },
+    {
+      "date": "May 2020",
+      "timestamp": "1588291200",
+      "values": [
+        {
+          "query": "rabat",
+          "value": "45",
+          "extracted_value": 45
+        }
+      ]
+    },
+    {
+      "date": "Jun 2020",
+      "timestamp": "1590969600",
+      "values": [
+        {
+          "query": "rabat",
+          "value": "49",
+          "extracted_value": 49
+        }
+      ]
+    },
+    {
+      "date": "Jul 2020",
+      "timestamp": "1593561600",
+      "values": [
+        {
+          "query": "rabat",
+          "value": "59",
+          "extracted_value": 59
+        }
+      ]
+    },
+    {
+      "date": "Aug 2020",
+      "timestamp": "1596240000",
+      "values": [
+        {
+          "query": "rabat",
+          "value": "57",
+          "extracted_value": 57
+        }
+      ]
+    },
+    {
+      "date": "Sep 2020",
+      "timestamp": "1598918400",
+      "values": [
+        {
+          "query": "rabat",
+          "value": "57",
+          "extracted_value": 57
+        }
+      ]
+    },
+    {
+      "date": "Oct 2020",
+      "timestamp": "1601510400",
+      "values": [
+        {
+          "query": "rabat",
+          "value": "59",
+          "extracted_value": 59
+        }
+      ]
+    },
+    {
+      "date": "Nov 2020",
+      "timestamp": "1604188800",
+      "values": [
+        {
+          "query": "rabat",
+          "value": "59",
+          "extracted_value": 59
+        }
+      ]
+    },
+    {
+      "date": "Dec 2020",
+      "timestamp": "1606780800",
+      "values": [
+        {
+          "query": "rabat",
+          "value": "63",
+          "extracted_value": 63
+        }
+      ]
+    },
+    {
+      "date": "Jan 2021",
+      "timestamp": "1609459200",
+      "values": [
+        {
+          "query": "rabat",
+          "value": "58",
+          "extracted_value": 58
+        }
+      ]
+    },
+    {
+      "date": "Feb 2021",
+      "timestamp": "1612137600",
+      "values": [
+        {
+          "query": "rabat",
+          "value": "60",
+          "extracted_value": 60
+        }
+      ]
+    },
+    {
+      "date": "Mar 2021",
+      "timestamp": "1614556800",
+      "values": [
+        {
+          "query": "rabat",
+          "value": "60",
+          "extracted_value": 60
+        }
+      ]
+    },
+    {
+      "date": "Apr 2021",
+      "timestamp": "1617235200",
+      "values": [
+        {
+          "query": "rabat",
+          "value": "57",
+          "extracted_value": 57
+        }
+      ]
+    },
+    {
+      "date": "May 2021",
+      "timestamp": "1619827200",
+      "values": [
+        {
+          "query": "rabat",
+          "value": "60",
+          "extracted_value": 60
+        }
+      ]
+    },
+    {
+      "date": "Jun 2021",
+      "timestamp": "1622505600",
+      "values": [
+        {
+          "query": "rabat",
+          "value": "61",
+          "extracted_value": 61
+        }
+      ]
+    },
+    {
+      "date": "Jul 2021",
+      "timestamp": "1625097600",
+      "values": [
+        {
+          "query": "rabat",
+          "value": "71",
+          "extracted_value": 71
+        }
+      ]
+    },
+    {
+      "date": "Aug 2021",
+      "timestamp": "1627776000",
+      "values": [
+        {
+          "query": "rabat",
+          "value": "65",
+          "extracted_value": 65
+        }
+      ]
+    },
+    {
+      "date": "Sep 2021",
+      "timestamp": "1630454400",
+      "values": [
+        {
+          "query": "rabat",
+          "value": "65",
+          "extracted_value": 65
+        }
+      ]
+    },
+    {
+      "date": "Oct 2021",
+      "timestamp": "1633046400",
+      "values": [
+        {
+          "query": "rabat",
+          "value": "66",
+          "extracted_value": 66
+        }
+      ]
+    },
+    {
+      "date": "Nov 2021",
+      "timestamp": "1635724800",
+      "values": [
+        {
+          "query": "rabat",
+          "value": "72",
+          "extracted_value": 72
+        }
+      ]
+    },
+    {
+      "date": "Dec 2021",
+      "timestamp": "1638316800",
+      "values": [
+        {
+          "query": "rabat",
+          "value": "64",
+          "extracted_value": 64
+        }
+      ]
+    },
+    {
+      "date": "Jan 2022",
+      "timestamp": "1640995200",
+      "values": [
+        {
+          "query": "rabat",
+          "value": "68",
+          "extracted_value": 68
+        }
+      ]
+    },
+    {
+      "date": "Feb 2022",
+      "timestamp": "1643673600",
+      "values": [
+        {
+          "query": "rabat",
+          "value": "80",
+          "extracted_value": 80
+        }
+      ]
+    },
+    {
+      "date": "Mar 2022",
+      "timestamp": "1646092800",
+      "values": [
+        {
+          "query": "rabat",
+          "value": "84",
+          "extracted_value": 84
+        }
+      ]
+    },
+    {
+      "date": "Apr 2022",
+      "timestamp": "1648771200",
+      "values": [
+        {
+          "query": "rabat",
+          "value": "81",
+          "extracted_value": 81
+        }
+      ]
+    },
+    {
+      "date": "May 2022",
+      "timestamp": "1651363200",
+      "values": [
+        {
+          "query": "rabat",
+          "value": "82",
+          "extracted_value": 82
+        }
+      ]
+    },
+    {
+      "date": "Jun 2022",
+      "timestamp": "1654041600",
+      "values": [
+        {
+          "query": "rabat",
+          "value": "80",
+          "extracted_value": 80
+        }
+      ]
+    },
+    {
+      "date": "Jul 2022",
+      "timestamp": "1656633600",
+      "values": [
+        {
+          "query": "rabat",
+          "value": "86",
+          "extracted_value": 86
+        }
+      ]
+    },
+    {
+      "date": "Aug 2022",
+      "timestamp": "1659312000",
+      "values": [
+        {
+          "query": "rabat",
+          "value": "81",
+          "extracted_value": 81
+        }
+      ]
+    },
+    {
+      "date": "Sep 2022",
+      "timestamp": "1661990400",
+      "values": [
+        {
+          "query": "rabat",
+          "value": "85",
+          "extracted_value": 85
+        }
+      ]
+    },
+    {
+      "date": "Oct 2022",
+      "timestamp": "1664582400",
+      "values": [
+        {
+          "query": "rabat",
+          "value": "82",
+          "extracted_value": 82
+        }
+      ]
+    },
+    {
+      "date": "Nov 2022",
+      "timestamp": "1667260800",
+      "values": [
+        {
+          "query": "rabat",
+          "value": "79",
+          "extracted_value": 79
+        }
+      ]
+    },
+    {
+      "date": "Dec 2022",
+      "timestamp": "1669852800",
+      "values": [
+        {
+          "query": "rabat",
+          "value": "83",
+          "extracted_value": 83
+        }
+      ]
+    },
+    {
+      "date": "Jan 2023",
+      "timestamp": "1672531200",
+      "values": [
+        {
+          "query": "rabat",
+          "value": "91",
+          "extracted_value": 91
+        }
+      ]
+    },
+    {
+      "date": "Feb 2023",
+      "timestamp": "1675209600",
+      "values": [
+        {
+          "query": "rabat",
+          "value": "93",
+          "extracted_value": 93
+        }
+      ]
+    },
+    {
+      "date": "Mar 2023",
+      "timestamp": "1677628800",
+      "values": [
+        {
+          "query": "rabat",
+          "value": "82",
+          "extracted_value": 82
+        }
+      ]
+    },
+    {
+      "date": "Apr 2023",
+      "timestamp": "1680307200",
+      "values": [
+        {
+          "query": "rabat",
+          "value": "85",
+          "extracted_value": 85
+        }
+      ]
+    },
+    {
+      "date": "May 2023",
+      "timestamp": "1682899200",
+      "values": [
+        {
+          "query": "rabat",
+          "value": "96",
+          "extracted_value": 96
+        }
+      ]
+    },
+    {
+      "date": "Jun 2023",
+      "timestamp": "1685577600",
+      "values": [
+        {
+          "query": "rabat",
+          "value": "85",
+          "extracted_value": 85
+        }
+      ]
+    },
+    {
+      "date": "Jul 2023",
+      "timestamp": "1688169600",
+      "values": [
+        {
+          "query": "rabat",
+          "value": "90",
+          "extracted_value": 90
+        }
+      ]
+    },
+    {
+      "date": "Aug 2023",
+      "timestamp": "1690848000",
+      "values": [
+        {
+          "query": "rabat",
+          "value": "91",
+          "extracted_value": 91
+        }
+      ]
+    },
+    {
+      "date": "Sep 2023",
+      "timestamp": "1693526400",
+      "values": [
+        {
+          "query": "rabat",
+          "value": "93",
+          "extracted_value": 93
+        }
+      ]
+    },
+    {
+      "date": "Oct 2023",
+      "timestamp": "1696118400",
+      "values": [
+        {
+          "query": "rabat",
+          "value": "94",
+          "extracted_value": 94
+        }
+      ]
+    },
+    {
+      "date": "Nov 2023",
+      "timestamp": "1698796800",
+      "values": [
+        {
+          "query": "rabat",
+          "value": "85",
+          "extracted_value": 85
+        }
+      ]
+    },
+    {
+      "date": "Dec 2023",
+      "timestamp": "1701388800",
+      "values": [
+        {
+          "query": "rabat",
+          "value": "92",
+          "extracted_value": 92
+        }
+      ]
+    },
+    {
+      "date": "Jan 2024",
+      "timestamp": "1704067200",
+      "values": [
+        {
+          "query": "rabat",
+          "value": "85",
+          "extracted_value": 85
+        }
+      ]
+    },
+    {
+      "date": "Feb 2024",
+      "timestamp": "1706745600",
+      "values": [
+        {
+          "query": "rabat",
+          "value": "94",
+          "extracted_value": 94
+        }
+      ]
+    },
+    {
+      "date": "Mar 2024",
+      "timestamp": "1709251200",
+      "values": [
+        {
+          "query": "rabat",
+          "value": "100",
+          "extracted_value": 100
+        }
+      ]
+    },
+    {
+      "date": "Apr 2024",
+      "timestamp": "1711929600",
+      "values": [
+        {
+          "query": "rabat",
+          "value": "88",
+          "extracted_value": 88
+        }
+      ]
+    },
+    {
+      "date": "May 2024",
+      "timestamp": "1714521600",
+      "values": [
+        {
+          "query": "rabat",
+          "value": "93",
+          "extracted_value": 93
+        }
+      ]
+    },
+    {
+      "date": "Jun 2024",
+      "timestamp": "1717200000",
+      "values": [
+        {
+          "query": "rabat",
+          "value": "83",
+          "extracted_value": 83
+        }
+      ]
+    },
+    {
+      "date": "Jul 2024",
+      "timestamp": "1719792000",
+      "values": [
+        {
+          "query": "rabat",
+          "value": "93",
+          "extracted_value": 93
+        }
+      ]
+    },
+    {
+      "date": "Aug 2024",
+      "timestamp": "1722470400",
+      "values": [
+        {
+          "query": "rabat",
+          "value": "91",
+          "extracted_value": 91
+        }
+      ]
+    },
+    {
+      "date": "Sep 2024",
+      "timestamp": "1725148800",
+      "values": [
+        {
+          "query": "rabat",
+          "value": "88",
+          "extracted_value": 88
+        }
+      ]
+    },
+    {
+      "date": "Oct 2024",
+      "timestamp": "1727740800",
+      "values": [
+        {
+          "query": "rabat",
+          "value": "93",
+          "extracted_value": 93
+        }
+      ]
+    },
+    {
+      "date": "Nov 2024",
+      "timestamp": "1730419200",
+      "values": [
+        {
+          "query": "rabat",
+          "value": "89",
+          "extracted_value": 89
+        }
+      ]
+    },
+    {
+      "date": "Dec 2024",
+      "timestamp": "1733011200",
+      "values": [
+        {
+          "query": "rabat",
+          "value": "87",
+          "extracted_value": 87
+        }
+      ]
+    },
+    {
+      "date": "Jan 2025",
+      "timestamp": "1735689600",
+      "values": [
+        {
+          "query": "rabat",
+          "value": "94",
+          "extracted_value": 94
+        }
+      ]
+    },
+    {
+      "date": "Feb 2025",
+      "timestamp": "1738368000",
+      "values": [
+        {
+          "query": "rabat",
+          "value": "87",
+          "extracted_value": 87
+        }
+      ]
+    },
+    {
+      "date": "Mar 2025",
+      "timestamp": "1740787200",
+      "values": [
+        {
+          "query": "rabat",
+          "value": "95",
+          "extracted_value": 95
+        }
+      ]
+    },
+    {
+      "date": "Apr 2025",
+      "timestamp": "1743465600",
+      "values": [
+        {
+          "query": "rabat",
+          "value": "98",
+          "extracted_value": 98
+        }
+      ]
+    },
+    {
+      "date": "May 2025",
+      "timestamp": "1746057600",
+      "values": [
+        {
+          "query": "rabat",
+          "value": "93",
+          "extracted_value": 93
+        }
+      ]
+    },
+    {
+      "date": "Jun 2025",
+      "timestamp": "1748736000",
+      "values": [
+        {
+          "query": "rabat",
+          "value": "86",
+          "extracted_value": 86
+        }
+      ]
+    }
+  ],
+  "raw_response": {
+    "search_metadata": {
+      "id": "68e54eb4dbb9ff65a0b0f3f7",
+      "status": "Success",
+      "json_endpoint": "https://serpapi.com/searches/51b4ff9a60542bc8/68e54eb4dbb9ff65a0b0f3f7.json",
+      "created_at": "2025-10-07 17:32:36 UTC",
+      "processed_at": "2025-10-07 17:32:36 UTC",
+      "google_trends_url": "https://trends.google.com/trends/embed/explore/TIMESERIES?hl=en&tz=420&req=%7B%22comparisonItem%22%3A%5B%7B%22keyword%22%3A%22rabat%22%2C%22geo%22%3A%22%22%2C%22time%22%3A%222010-01-01+2025-06-30%22%7D%5D%2C%22category%22%3A0%2C%22property%22%3A%22%22%7D",
+      "raw_html_file": "https://serpapi.com/searches/51b4ff9a60542bc8/68e54eb4dbb9ff65a0b0f3f7.html",
+      "prettify_html_file": "https://serpapi.com/searches/51b4ff9a60542bc8/68e54eb4dbb9ff65a0b0f3f7.prettify",
+      "total_time_taken": 32.13
+    },
+    "search_parameters": {
+      "engine": "google_trends",
+      "q": "rabat",
+      "hl": "en",
+      "date": "2010-01-01 2025-06-30",
+      "tz": "420",
+      "data_type": "TIMESERIES"
+    },
+    "interest_over_time": {
+      "timeline_data": [
+        {
+          "date": "Jan 2010",
+          "timestamp": "1262304000",
+          "values": [
+            {
+              "query": "rabat",
+              "value": "43",
+              "extracted_value": 43
+            }
+          ]
+        },
+        {
+          "date": "Feb 2010",
+          "timestamp": "1264982400",
+          "values": [
+            {
+              "query": "rabat",
+              "value": "47",
+              "extracted_value": 47
+            }
+          ]
+        },
+        {
+          "date": "Mar 2010",
+          "timestamp": "1267401600",
+          "values": [
+            {
+              "query": "rabat",
+              "value": "52",
+              "extracted_value": 52
+            }
+          ]
+        },
+        {
+          "date": "Apr 2010",
+          "timestamp": "1270080000",
+          "values": [
+            {
+              "query": "rabat",
+              "value": "53",
+              "extracted_value": 53
+            }
+          ]
+        },
+        {
+          "date": "May 2010",
+          "timestamp": "1272672000",
+          "values": [
+            {
+              "query": "rabat",
+              "value": "56",
+              "extracted_value": 56
+            }
+          ]
+        },
+        {
+          "date": "Jun 2010",
+          "timestamp": "1275350400",
+          "values": [
+            {
+              "query": "rabat",
+              "value": "58",
+              "extracted_value": 58
+            }
+          ]
+        },
+        {
+          "date": "Jul 2010",
+          "timestamp": "1277942400",
+          "values": [
+            {
+              "query": "rabat",
+              "value": "61",
+              "extracted_value": 61
+            }
+          ]
+        },
+        {
+          "date": "Aug 2010",
+          "timestamp": "1280620800",
+          "values": [
+            {
+              "query": "rabat",
+              "value": "51",
+              "extracted_value": 51
+            }
+          ]
+        },
+        {
+          "date": "Sep 2010",
+          "timestamp": "1283299200",
+          "values": [
+            {
+              "query": "rabat",
+              "value": "57",
+              "extracted_value": 57
+            }
+          ]
+        },
+        {
+          "date": "Oct 2010",
+          "timestamp": "1285891200",
+          "values": [
+            {
+              "query": "rabat",
+              "value": "53",
+              "extracted_value": 53
+            }
+          ]
+        },
+        {
+          "date": "Nov 2010",
+          "timestamp": "1288569600",
+          "values": [
+            {
+              "query": "rabat",
+              "value": "46",
+              "extracted_value": 46
+            }
+          ]
+        },
+        {
+          "date": "Dec 2010",
+          "timestamp": "1291161600",
+          "values": [
+            {
+              "query": "rabat",
+              "value": "52",
+              "extracted_value": 52
+            }
+          ]
+        },
+        {
+          "date": "Jan 2011",
+          "timestamp": "1293840000",
+          "values": [
+            {
+              "query": "rabat",
+              "value": "46",
+              "extracted_value": 46
+            }
+          ]
+        },
+        {
+          "date": "Feb 2011",
+          "timestamp": "1296518400",
+          "values": [
+            {
+              "query": "rabat",
+              "value": "47",
+              "extracted_value": 47
+            }
+          ]
+        },
+        {
+          "date": "Mar 2011",
+          "timestamp": "1298937600",
+          "values": [
+            {
+              "query": "rabat",
+              "value": "48",
+              "extracted_value": 48
+            }
+          ]
+        },
+        {
+          "date": "Apr 2011",
+          "timestamp": "1301616000",
+          "values": [
+            {
+              "query": "rabat",
+              "value": "54",
+              "extracted_value": 54
+            }
+          ]
+        },
+        {
+          "date": "May 2011",
+          "timestamp": "1304208000",
+          "values": [
+            {
+              "query": "rabat",
+              "value": "58",
+              "extracted_value": 58
+            }
+          ]
+        },
+        {
+          "date": "Jun 2011",
+          "timestamp": "1306886400",
+          "values": [
+            {
+              "query": "rabat",
+              "value": "58",
+              "extracted_value": 58
+            }
+          ]
+        },
+        {
+          "date": "Jul 2011",
+          "timestamp": "1309478400",
+          "values": [
+            {
+              "query": "rabat",
+              "value": "61",
+              "extracted_value": 61
+            }
+          ]
+        },
+        {
+          "date": "Aug 2011",
+          "timestamp": "1312156800",
+          "values": [
+            {
+              "query": "rabat",
+              "value": "58",
+              "extracted_value": 58
+            }
+          ]
+        },
+        {
+          "date": "Sep 2011",
+          "timestamp": "1314835200",
+          "values": [
+            {
+              "query": "rabat",
+              "value": "65",
+              "extracted_value": 65
+            }
+          ]
+        },
+        {
+          "date": "Oct 2011",
+          "timestamp": "1317427200",
+          "values": [
+            {
+              "query": "rabat",
+              "value": "57",
+              "extracted_value": 57
+            }
+          ]
+        },
+        {
+          "date": "Nov 2011",
+          "timestamp": "1320105600",
+          "values": [
+            {
+              "query": "rabat",
+              "value": "53",
+              "extracted_value": 53
+            }
+          ]
+        },
+        {
+          "date": "Dec 2011",
+          "timestamp": "1322697600",
+          "values": [
+            {
+              "query": "rabat",
+              "value": "54",
+              "extracted_value": 54
+            }
+          ]
+        },
+        {
+          "date": "Jan 2012",
+          "timestamp": "1325376000",
+          "values": [
+            {
+              "query": "rabat",
+              "value": "53",
+              "extracted_value": 53
+            }
+          ]
+        },
+        {
+          "date": "Feb 2012",
+          "timestamp": "1328054400",
+          "values": [
+            {
+              "query": "rabat",
+              "value": "56",
+              "extracted_value": 56
+            }
+          ]
+        },
+        {
+          "date": "Mar 2012",
+          "timestamp": "1330560000",
+          "values": [
+            {
+              "query": "rabat",
+              "value": "56",
+              "extracted_value": 56
+            }
+          ]
+        },
+        {
+          "date": "Apr 2012",
+          "timestamp": "1333238400",
+          "values": [
+            {
+              "query": "rabat",
+              "value": "57",
+              "extracted_value": 57
+            }
+          ]
+        },
+        {
+          "date": "May 2012",
+          "timestamp": "1335830400",
+          "values": [
+            {
+              "query": "rabat",
+              "value": "60",
+              "extracted_value": 60
+            }
+          ]
+        },
+        {
+          "date": "Jun 2012",
+          "timestamp": "1338508800",
+          "values": [
+            {
+              "query": "rabat",
+              "value": "61",
+              "extracted_value": 61
+            }
+          ]
+        },
+        {
+          "date": "Jul 2012",
+          "timestamp": "1341100800",
+          "values": [
+            {
+              "query": "rabat",
+              "value": "71",
+              "extracted_value": 71
+            }
+          ]
+        },
+        {
+          "date": "Aug 2012",
+          "timestamp": "1343779200",
+          "values": [
+            {
+              "query": "rabat",
+              "value": "58",
+              "extracted_value": 58
+            }
+          ]
+        },
+        {
+          "date": "Sep 2012",
+          "timestamp": "1346457600",
+          "values": [
+            {
+              "query": "rabat",
+              "value": "65",
+              "extracted_value": 65
+            }
+          ]
+        },
+        {
+          "date": "Oct 2012",
+          "timestamp": "1349049600",
+          "values": [
+            {
+              "query": "rabat",
+              "value": "56",
+              "extracted_value": 56
+            }
+          ]
+        },
+        {
+          "date": "Nov 2012",
+          "timestamp": "1351728000",
+          "values": [
+            {
+              "query": "rabat",
+              "value": "54",
+              "extracted_value": 54
+            }
+          ]
+        },
+        {
+          "date": "Dec 2012",
+          "timestamp": "1354320000",
+          "values": [
+            {
+              "query": "rabat",
+              "value": "55",
+              "extracted_value": 55
+            }
+          ]
+        },
+        {
+          "date": "Jan 2013",
+          "timestamp": "1356998400",
+          "values": [
+            {
+              "query": "rabat",
+              "value": "53",
+              "extracted_value": 53
+            }
+          ]
+        },
+        {
+          "date": "Feb 2013",
+          "timestamp": "1359676800",
+          "values": [
+            {
+              "query": "rabat",
+              "value": "56",
+              "extracted_value": 56
+            }
+          ]
+        },
+        {
+          "date": "Mar 2013",
+          "timestamp": "1362096000",
+          "values": [
+            {
+              "query": "rabat",
+              "value": "65",
+              "extracted_value": 65
+            }
+          ]
+        },
+        {
+          "date": "Apr 2013",
+          "timestamp": "1364774400",
+          "values": [
+            {
+              "query": "rabat",
+              "value": "62",
+              "extracted_value": 62
+            }
+          ]
+        },
+        {
+          "date": "May 2013",
+          "timestamp": "1367366400",
+          "values": [
+            {
+              "query": "rabat",
+              "value": "60",
+              "extracted_value": 60
+            }
+          ]
+        },
+        {
+          "date": "Jun 2013",
+          "timestamp": "1370044800",
+          "values": [
+            {
+              "query": "rabat",
+              "value": "58",
+              "extracted_value": 58
+            }
+          ]
+        },
+        {
+          "date": "Jul 2013",
+          "timestamp": "1372636800",
+          "values": [
+            {
+              "query": "rabat",
+              "value": "74",
+              "extracted_value": 74
+            }
+          ]
+        },
+        {
+          "date": "Aug 2013",
+          "timestamp": "1375315200",
+          "values": [
+            {
+              "query": "rabat",
+              "value": "61",
+              "extracted_value": 61
+            }
+          ]
+        },
+        {
+          "date": "Sep 2013",
+          "timestamp": "1377993600",
+          "values": [
+            {
+              "query": "rabat",
+              "value": "70",
+              "extracted_value": 70
+            }
+          ]
+        },
+        {
+          "date": "Oct 2013",
+          "timestamp": "1380585600",
+          "values": [
+            {
+              "query": "rabat",
+              "value": "61",
+              "extracted_value": 61
+            }
+          ]
+        },
+        {
+          "date": "Nov 2013",
+          "timestamp": "1383264000",
+          "values": [
+            {
+              "query": "rabat",
+              "value": "62",
+              "extracted_value": 62
+            }
+          ]
+        },
+        {
+          "date": "Dec 2013",
+          "timestamp": "1385856000",
+          "values": [
+            {
+              "query": "rabat",
+              "value": "63",
+              "extracted_value": 63
+            }
+          ]
+        },
+        {
+          "date": "Jan 2014",
+          "timestamp": "1388534400",
+          "values": [
+            {
+              "query": "rabat",
+              "value": "62",
+              "extracted_value": 62
+            }
+          ]
+        },
+        {
+          "date": "Feb 2014",
+          "timestamp": "1391212800",
+          "values": [
+            {
+              "query": "rabat",
+              "value": "62",
+              "extracted_value": 62
+            }
+          ]
+        },
+        {
+          "date": "Mar 2014",
+          "timestamp": "1393632000",
+          "values": [
+            {
+              "query": "rabat",
+              "value": "62",
+              "extracted_value": 62
+            }
+          ]
+        },
+        {
+          "date": "Apr 2014",
+          "timestamp": "1396310400",
+          "values": [
+            {
+              "query": "rabat",
+              "value": "67",
+              "extracted_value": 67
+            }
+          ]
+        },
+        {
+          "date": "May 2014",
+          "timestamp": "1398902400",
+          "values": [
+            {
+              "query": "rabat",
+              "value": "68",
+              "extracted_value": 68
+            }
+          ]
+        },
+        {
+          "date": "Jun 2014",
+          "timestamp": "1401580800",
+          "values": [
+            {
+              "query": "rabat",
+              "value": "71",
+              "extracted_value": 71
+            }
+          ]
+        },
+        {
+          "date": "Jul 2014",
+          "timestamp": "1404172800",
+          "values": [
+            {
+              "query": "rabat",
+              "value": "73",
+              "extracted_value": 73
+            }
+          ]
+        },
+        {
+          "date": "Aug 2014",
+          "timestamp": "1406851200",
+          "values": [
+            {
+              "query": "rabat",
+              "value": "67",
+              "extracted_value": 67
+            }
+          ]
+        },
+        {
+          "date": "Sep 2014",
+          "timestamp": "1409529600",
+          "values": [
+            {
+              "query": "rabat",
+              "value": "79",
+              "extracted_value": 79
+            }
+          ]
+        },
+        {
+          "date": "Oct 2014",
+          "timestamp": "1412121600",
+          "values": [
+            {
+              "query": "rabat",
+              "value": "70",
+              "extracted_value": 70
+            }
+          ]
+        },
+        {
+          "date": "Nov 2014",
+          "timestamp": "1414800000",
+          "values": [
+            {
+              "query": "rabat",
+              "value": "76",
+              "extracted_value": 76
+            }
+          ]
+        },
+        {
+          "date": "Dec 2014",
+          "timestamp": "1417392000",
+          "values": [
+            {
+              "query": "rabat",
+              "value": "75",
+              "extracted_value": 75
+            }
+          ]
+        },
+        {
+          "date": "Jan 2015",
+          "timestamp": "1420070400",
+          "values": [
+            {
+              "query": "rabat",
+              "value": "64",
+              "extracted_value": 64
+            }
+          ]
+        },
+        {
+          "date": "Feb 2015",
+          "timestamp": "1422748800",
+          "values": [
+            {
+              "query": "rabat",
+              "value": "68",
+              "extracted_value": 68
+            }
+          ]
+        },
+        {
+          "date": "Mar 2015",
+          "timestamp": "1425168000",
+          "values": [
+            {
+              "query": "rabat",
+              "value": "71",
+              "extracted_value": 71
+            }
+          ]
+        },
+        {
+          "date": "Apr 2015",
+          "timestamp": "1427846400",
+          "values": [
+            {
+              "query": "rabat",
+              "value": "67",
+              "extracted_value": 67
+            }
+          ]
+        },
+        {
+          "date": "May 2015",
+          "timestamp": "1430438400",
+          "values": [
+            {
+              "query": "rabat",
+              "value": "70",
+              "extracted_value": 70
+            }
+          ]
+        },
+        {
+          "date": "Jun 2015",
+          "timestamp": "1433116800",
+          "values": [
+            {
+              "query": "rabat",
+              "value": "71",
+              "extracted_value": 71
+            }
+          ]
+        },
+        {
+          "date": "Jul 2015",
+          "timestamp": "1435708800",
+          "values": [
+            {
+              "query": "rabat",
+              "value": "81",
+              "extracted_value": 81
+            }
+          ]
+        },
+        {
+          "date": "Aug 2015",
+          "timestamp": "1438387200",
+          "values": [
+            {
+              "query": "rabat",
+              "value": "66",
+              "extracted_value": 66
+            }
+          ]
+        },
+        {
+          "date": "Sep 2015",
+          "timestamp": "1441065600",
+          "values": [
+            {
+              "query": "rabat",
+              "value": "73",
+              "extracted_value": 73
+            }
+          ]
+        },
+        {
+          "date": "Oct 2015",
+          "timestamp": "1443657600",
+          "values": [
+            {
+              "query": "rabat",
+              "value": "77",
+              "extracted_value": 77
+            }
+          ]
+        },
+        {
+          "date": "Nov 2015",
+          "timestamp": "1446336000",
+          "values": [
+            {
+              "query": "rabat",
+              "value": "69",
+              "extracted_value": 69
+            }
+          ]
+        },
+        {
+          "date": "Dec 2015",
+          "timestamp": "1448928000",
+          "values": [
+            {
+              "query": "rabat",
+              "value": "68",
+              "extracted_value": 68
+            }
+          ]
+        },
+        {
+          "date": "Jan 2016",
+          "timestamp": "1451606400",
+          "values": [
+            {
+              "query": "rabat",
+              "value": "66",
+              "extracted_value": 66
+            }
+          ]
+        },
+        {
+          "date": "Feb 2016",
+          "timestamp": "1454284800",
+          "values": [
+            {
+              "query": "rabat",
+              "value": "66",
+              "extracted_value": 66
+            }
+          ]
+        },
+        {
+          "date": "Mar 2016",
+          "timestamp": "1456790400",
+          "values": [
+            {
+              "query": "rabat",
+              "value": "70",
+              "extracted_value": 70
+            }
+          ]
+        },
+        {
+          "date": "Apr 2016",
+          "timestamp": "1459468800",
+          "values": [
+            {
+              "query": "rabat",
+              "value": "66",
+              "extracted_value": 66
+            }
+          ]
+        },
+        {
+          "date": "May 2016",
+          "timestamp": "1462060800",
+          "values": [
+            {
+              "query": "rabat",
+              "value": "70",
+              "extracted_value": 70
+            }
+          ]
+        },
+        {
+          "date": "Jun 2016",
+          "timestamp": "1464739200",
+          "values": [
+            {
+              "query": "rabat",
+              "value": "65",
+              "extracted_value": 65
+            }
+          ]
+        },
+        {
+          "date": "Jul 2016",
+          "timestamp": "1467331200",
+          "values": [
+            {
+              "query": "rabat",
+              "value": "76",
+              "extracted_value": 76
+            }
+          ]
+        },
+        {
+          "date": "Aug 2016",
+          "timestamp": "1470009600",
+          "values": [
+            {
+              "query": "rabat",
+              "value": "61",
+              "extracted_value": 61
+            }
+          ]
+        },
+        {
+          "date": "Sep 2016",
+          "timestamp": "1472688000",
+          "values": [
+            {
+              "query": "rabat",
+              "value": "67",
+              "extracted_value": 67
+            }
+          ]
+        },
+        {
+          "date": "Oct 2016",
+          "timestamp": "1475280000",
+          "values": [
+            {
+              "query": "rabat",
+              "value": "69",
+              "extracted_value": 69
+            }
+          ]
+        },
+        {
+          "date": "Nov 2016",
+          "timestamp": "1477958400",
+          "values": [
+            {
+              "query": "rabat",
+              "value": "67",
+              "extracted_value": 67
+            }
+          ]
+        },
+        {
+          "date": "Dec 2016",
+          "timestamp": "1480550400",
+          "values": [
+            {
+              "query": "rabat",
+              "value": "64",
+              "extracted_value": 64
+            }
+          ]
+        },
+        {
+          "date": "Jan 2017",
+          "timestamp": "1483228800",
+          "values": [
+            {
+              "query": "rabat",
+              "value": "64",
+              "extracted_value": 64
+            }
+          ]
+        },
+        {
+          "date": "Feb 2017",
+          "timestamp": "1485907200",
+          "values": [
+            {
+              "query": "rabat",
+              "value": "66",
+              "extracted_value": 66
+            }
+          ]
+        },
+        {
+          "date": "Mar 2017",
+          "timestamp": "1488326400",
+          "values": [
+            {
+              "query": "rabat",
+              "value": "67",
+              "extracted_value": 67
+            }
+          ]
+        },
+        {
+          "date": "Apr 2017",
+          "timestamp": "1491004800",
+          "values": [
+            {
+              "query": "rabat",
+              "value": "66",
+              "extracted_value": 66
+            }
+          ]
+        },
+        {
+          "date": "May 2017",
+          "timestamp": "1493596800",
+          "values": [
+            {
+              "query": "rabat",
+              "value": "64",
+              "extracted_value": 64
+            }
+          ]
+        },
+        {
+          "date": "Jun 2017",
+          "timestamp": "1496275200",
+          "values": [
+            {
+              "query": "rabat",
+              "value": "62",
+              "extracted_value": 62
+            }
+          ]
+        },
+        {
+          "date": "Jul 2017",
+          "timestamp": "1498867200",
+          "values": [
+            {
+              "query": "rabat",
+              "value": "79",
+              "extracted_value": 79
+            }
+          ]
+        },
+        {
+          "date": "Aug 2017",
+          "timestamp": "1501545600",
+          "values": [
+            {
+              "query": "rabat",
+              "value": "65",
+              "extracted_value": 65
+            }
+          ]
+        },
+        {
+          "date": "Sep 2017",
+          "timestamp": "1504224000",
+          "values": [
+            {
+              "query": "rabat",
+              "value": "66",
+              "extracted_value": 66
+            }
+          ]
+        },
+        {
+          "date": "Oct 2017",
+          "timestamp": "1506816000",
+          "values": [
+            {
+              "query": "rabat",
+              "value": "71",
+              "extracted_value": 71
+            }
+          ]
+        },
+        {
+          "date": "Nov 2017",
+          "timestamp": "1509494400",
+          "values": [
+            {
+              "query": "rabat",
+              "value": "65",
+              "extracted_value": 65
+            }
+          ]
+        },
+        {
+          "date": "Dec 2017",
+          "timestamp": "1512086400",
+          "values": [
+            {
+              "query": "rabat",
+              "value": "69",
+              "extracted_value": 69
+            }
+          ]
+        },
+        {
+          "date": "Jan 2018",
+          "timestamp": "1514764800",
+          "values": [
+            {
+              "query": "rabat",
+              "value": "68",
+              "extracted_value": 68
+            }
+          ]
+        },
+        {
+          "date": "Feb 2018",
+          "timestamp": "1517443200",
+          "values": [
+            {
+              "query": "rabat",
+              "value": "72",
+              "extracted_value": 72
+            }
+          ]
+        },
+        {
+          "date": "Mar 2018",
+          "timestamp": "1519862400",
+          "values": [
+            {
+              "query": "rabat",
+              "value": "81",
+              "extracted_value": 81
+            }
+          ]
+        },
+        {
+          "date": "Apr 2018",
+          "timestamp": "1522540800",
+          "values": [
+            {
+              "query": "rabat",
+              "value": "75",
+              "extracted_value": 75
+            }
+          ]
+        },
+        {
+          "date": "May 2018",
+          "timestamp": "1525132800",
+          "values": [
+            {
+              "query": "rabat",
+              "value": "71",
+              "extracted_value": 71
+            }
+          ]
+        },
+        {
+          "date": "Jun 2018",
+          "timestamp": "1527811200",
+          "values": [
+            {
+              "query": "rabat",
+              "value": "68",
+              "extracted_value": 68
+            }
+          ]
+        },
+        {
+          "date": "Jul 2018",
+          "timestamp": "1530403200",
+          "values": [
+            {
+              "query": "rabat",
+              "value": "81",
+              "extracted_value": 81
+            }
+          ]
+        },
+        {
+          "date": "Aug 2018",
+          "timestamp": "1533081600",
+          "values": [
+            {
+              "query": "rabat",
+              "value": "73",
+              "extracted_value": 73
+            }
+          ]
+        },
+        {
+          "date": "Sep 2018",
+          "timestamp": "1535760000",
+          "values": [
+            {
+              "query": "rabat",
+              "value": "70",
+              "extracted_value": 70
+            }
+          ]
+        },
+        {
+          "date": "Oct 2018",
+          "timestamp": "1538352000",
+          "values": [
+            {
+              "query": "rabat",
+              "value": "75",
+              "extracted_value": 75
+            }
+          ]
+        },
+        {
+          "date": "Nov 2018",
+          "timestamp": "1541030400",
+          "values": [
+            {
+              "query": "rabat",
+              "value": "72",
+              "extracted_value": 72
+            }
+          ]
+        },
+        {
+          "date": "Dec 2018",
+          "timestamp": "1543622400",
+          "values": [
+            {
+              "query": "rabat",
+              "value": "66",
+              "extracted_value": 66
+            }
+          ]
+        },
+        {
+          "date": "Jan 2019",
+          "timestamp": "1546300800",
+          "values": [
+            {
+              "query": "rabat",
+              "value": "69",
+              "extracted_value": 69
+            }
+          ]
+        },
+        {
+          "date": "Feb 2019",
+          "timestamp": "1548979200",
+          "values": [
+            {
+              "query": "rabat",
+              "value": "66",
+              "extracted_value": 66
+            }
+          ]
+        },
+        {
+          "date": "Mar 2019",
+          "timestamp": "1551398400",
+          "values": [
+            {
+              "query": "rabat",
+              "value": "72",
+              "extracted_value": 72
+            }
+          ]
+        },
+        {
+          "date": "Apr 2019",
+          "timestamp": "1554076800",
+          "values": [
+            {
+              "query": "rabat",
+              "value": "74",
+              "extracted_value": 74
+            }
+          ]
+        },
+        {
+          "date": "May 2019",
+          "timestamp": "1556668800",
+          "values": [
+            {
+              "query": "rabat",
+              "value": "68",
+              "extracted_value": 68
+            }
+          ]
+        },
+        {
+          "date": "Jun 2019",
+          "timestamp": "1559347200",
+          "values": [
+            {
+              "query": "rabat",
+              "value": "76",
+              "extracted_value": 76
+            }
+          ]
+        },
+        {
+          "date": "Jul 2019",
+          "timestamp": "1561939200",
+          "values": [
+            {
+              "query": "rabat",
+              "value": "81",
+              "extracted_value": 81
+            }
+          ]
+        },
+        {
+          "date": "Aug 2019",
+          "timestamp": "1564617600",
+          "values": [
+            {
+              "query": "rabat",
+              "value": "71",
+              "extracted_value": 71
+            }
+          ]
+        },
+        {
+          "date": "Sep 2019",
+          "timestamp": "1567296000",
+          "values": [
+            {
+              "query": "rabat",
+              "value": "71",
+              "extracted_value": 71
+            }
+          ]
+        },
+        {
+          "date": "Oct 2019",
+          "timestamp": "1569888000",
+          "values": [
+            {
+              "query": "rabat",
+              "value": "75",
+              "extracted_value": 75
+            }
+          ]
+        },
+        {
+          "date": "Nov 2019",
+          "timestamp": "1572566400",
+          "values": [
+            {
+              "query": "rabat",
+              "value": "81",
+              "extracted_value": 81
+            }
+          ]
+        },
+        {
+          "date": "Dec 2019",
+          "timestamp": "1575158400",
+          "values": [
+            {
+              "query": "rabat",
+              "value": "77",
+              "extracted_value": 77
+            }
+          ]
+        },
+        {
+          "date": "Jan 2020",
+          "timestamp": "1577836800",
+          "values": [
+            {
+              "query": "rabat",
+              "value": "71",
+              "extracted_value": 71
+            }
+          ]
+        },
+        {
+          "date": "Feb 2020",
+          "timestamp": "1580515200",
+          "values": [
+            {
+              "query": "rabat",
+              "value": "72",
+              "extracted_value": 72
+            }
+          ]
+        },
+        {
+          "date": "Mar 2020",
+          "timestamp": "1583020800",
+          "values": [
+            {
+              "query": "rabat",
+              "value": "54",
+              "extracted_value": 54
+            }
+          ]
+        },
+        {
+          "date": "Apr 2020",
+          "timestamp": "1585699200",
+          "values": [
+            {
+              "query": "rabat",
+              "value": "43",
+              "extracted_value": 43
+            }
+          ]
+        },
+        {
+          "date": "May 2020",
+          "timestamp": "1588291200",
+          "values": [
+            {
+              "query": "rabat",
+              "value": "45",
+              "extracted_value": 45
+            }
+          ]
+        },
+        {
+          "date": "Jun 2020",
+          "timestamp": "1590969600",
+          "values": [
+            {
+              "query": "rabat",
+              "value": "49",
+              "extracted_value": 49
+            }
+          ]
+        },
+        {
+          "date": "Jul 2020",
+          "timestamp": "1593561600",
+          "values": [
+            {
+              "query": "rabat",
+              "value": "59",
+              "extracted_value": 59
+            }
+          ]
+        },
+        {
+          "date": "Aug 2020",
+          "timestamp": "1596240000",
+          "values": [
+            {
+              "query": "rabat",
+              "value": "57",
+              "extracted_value": 57
+            }
+          ]
+        },
+        {
+          "date": "Sep 2020",
+          "timestamp": "1598918400",
+          "values": [
+            {
+              "query": "rabat",
+              "value": "57",
+              "extracted_value": 57
+            }
+          ]
+        },
+        {
+          "date": "Oct 2020",
+          "timestamp": "1601510400",
+          "values": [
+            {
+              "query": "rabat",
+              "value": "59",
+              "extracted_value": 59
+            }
+          ]
+        },
+        {
+          "date": "Nov 2020",
+          "timestamp": "1604188800",
+          "values": [
+            {
+              "query": "rabat",
+              "value": "59",
+              "extracted_value": 59
+            }
+          ]
+        },
+        {
+          "date": "Dec 2020",
+          "timestamp": "1606780800",
+          "values": [
+            {
+              "query": "rabat",
+              "value": "63",
+              "extracted_value": 63
+            }
+          ]
+        },
+        {
+          "date": "Jan 2021",
+          "timestamp": "1609459200",
+          "values": [
+            {
+              "query": "rabat",
+              "value": "58",
+              "extracted_value": 58
+            }
+          ]
+        },
+        {
+          "date": "Feb 2021",
+          "timestamp": "1612137600",
+          "values": [
+            {
+              "query": "rabat",
+              "value": "60",
+              "extracted_value": 60
+            }
+          ]
+        },
+        {
+          "date": "Mar 2021",
+          "timestamp": "1614556800",
+          "values": [
+            {
+              "query": "rabat",
+              "value": "60",
+              "extracted_value": 60
+            }
+          ]
+        },
+        {
+          "date": "Apr 2021",
+          "timestamp": "1617235200",
+          "values": [
+            {
+              "query": "rabat",
+              "value": "57",
+              "extracted_value": 57
+            }
+          ]
+        },
+        {
+          "date": "May 2021",
+          "timestamp": "1619827200",
+          "values": [
+            {
+              "query": "rabat",
+              "value": "60",
+              "extracted_value": 60
+            }
+          ]
+        },
+        {
+          "date": "Jun 2021",
+          "timestamp": "1622505600",
+          "values": [
+            {
+              "query": "rabat",
+              "value": "61",
+              "extracted_value": 61
+            }
+          ]
+        },
+        {
+          "date": "Jul 2021",
+          "timestamp": "1625097600",
+          "values": [
+            {
+              "query": "rabat",
+              "value": "71",
+              "extracted_value": 71
+            }
+          ]
+        },
+        {
+          "date": "Aug 2021",
+          "timestamp": "1627776000",
+          "values": [
+            {
+              "query": "rabat",
+              "value": "65",
+              "extracted_value": 65
+            }
+          ]
+        },
+        {
+          "date": "Sep 2021",
+          "timestamp": "1630454400",
+          "values": [
+            {
+              "query": "rabat",
+              "value": "65",
+              "extracted_value": 65
+            }
+          ]
+        },
+        {
+          "date": "Oct 2021",
+          "timestamp": "1633046400",
+          "values": [
+            {
+              "query": "rabat",
+              "value": "66",
+              "extracted_value": 66
+            }
+          ]
+        },
+        {
+          "date": "Nov 2021",
+          "timestamp": "1635724800",
+          "values": [
+            {
+              "query": "rabat",
+              "value": "72",
+              "extracted_value": 72
+            }
+          ]
+        },
+        {
+          "date": "Dec 2021",
+          "timestamp": "1638316800",
+          "values": [
+            {
+              "query": "rabat",
+              "value": "64",
+              "extracted_value": 64
+            }
+          ]
+        },
+        {
+          "date": "Jan 2022",
+          "timestamp": "1640995200",
+          "values": [
+            {
+              "query": "rabat",
+              "value": "68",
+              "extracted_value": 68
+            }
+          ]
+        },
+        {
+          "date": "Feb 2022",
+          "timestamp": "1643673600",
+          "values": [
+            {
+              "query": "rabat",
+              "value": "80",
+              "extracted_value": 80
+            }
+          ]
+        },
+        {
+          "date": "Mar 2022",
+          "timestamp": "1646092800",
+          "values": [
+            {
+              "query": "rabat",
+              "value": "84",
+              "extracted_value": 84
+            }
+          ]
+        },
+        {
+          "date": "Apr 2022",
+          "timestamp": "1648771200",
+          "values": [
+            {
+              "query": "rabat",
+              "value": "81",
+              "extracted_value": 81
+            }
+          ]
+        },
+        {
+          "date": "May 2022",
+          "timestamp": "1651363200",
+          "values": [
+            {
+              "query": "rabat",
+              "value": "82",
+              "extracted_value": 82
+            }
+          ]
+        },
+        {
+          "date": "Jun 2022",
+          "timestamp": "1654041600",
+          "values": [
+            {
+              "query": "rabat",
+              "value": "80",
+              "extracted_value": 80
+            }
+          ]
+        },
+        {
+          "date": "Jul 2022",
+          "timestamp": "1656633600",
+          "values": [
+            {
+              "query": "rabat",
+              "value": "86",
+              "extracted_value": 86
+            }
+          ]
+        },
+        {
+          "date": "Aug 2022",
+          "timestamp": "1659312000",
+          "values": [
+            {
+              "query": "rabat",
+              "value": "81",
+              "extracted_value": 81
+            }
+          ]
+        },
+        {
+          "date": "Sep 2022",
+          "timestamp": "1661990400",
+          "values": [
+            {
+              "query": "rabat",
+              "value": "85",
+              "extracted_value": 85
+            }
+          ]
+        },
+        {
+          "date": "Oct 2022",
+          "timestamp": "1664582400",
+          "values": [
+            {
+              "query": "rabat",
+              "value": "82",
+              "extracted_value": 82
+            }
+          ]
+        },
+        {
+          "date": "Nov 2022",
+          "timestamp": "1667260800",
+          "values": [
+            {
+              "query": "rabat",
+              "value": "79",
+              "extracted_value": 79
+            }
+          ]
+        },
+        {
+          "date": "Dec 2022",
+          "timestamp": "1669852800",
+          "values": [
+            {
+              "query": "rabat",
+              "value": "83",
+              "extracted_value": 83
+            }
+          ]
+        },
+        {
+          "date": "Jan 2023",
+          "timestamp": "1672531200",
+          "values": [
+            {
+              "query": "rabat",
+              "value": "91",
+              "extracted_value": 91
+            }
+          ]
+        },
+        {
+          "date": "Feb 2023",
+          "timestamp": "1675209600",
+          "values": [
+            {
+              "query": "rabat",
+              "value": "93",
+              "extracted_value": 93
+            }
+          ]
+        },
+        {
+          "date": "Mar 2023",
+          "timestamp": "1677628800",
+          "values": [
+            {
+              "query": "rabat",
+              "value": "82",
+              "extracted_value": 82
+            }
+          ]
+        },
+        {
+          "date": "Apr 2023",
+          "timestamp": "1680307200",
+          "values": [
+            {
+              "query": "rabat",
+              "value": "85",
+              "extracted_value": 85
+            }
+          ]
+        },
+        {
+          "date": "May 2023",
+          "timestamp": "1682899200",
+          "values": [
+            {
+              "query": "rabat",
+              "value": "96",
+              "extracted_value": 96
+            }
+          ]
+        },
+        {
+          "date": "Jun 2023",
+          "timestamp": "1685577600",
+          "values": [
+            {
+              "query": "rabat",
+              "value": "85",
+              "extracted_value": 85
+            }
+          ]
+        },
+        {
+          "date": "Jul 2023",
+          "timestamp": "1688169600",
+          "values": [
+            {
+              "query": "rabat",
+              "value": "90",
+              "extracted_value": 90
+            }
+          ]
+        },
+        {
+          "date": "Aug 2023",
+          "timestamp": "1690848000",
+          "values": [
+            {
+              "query": "rabat",
+              "value": "91",
+              "extracted_value": 91
+            }
+          ]
+        },
+        {
+          "date": "Sep 2023",
+          "timestamp": "1693526400",
+          "values": [
+            {
+              "query": "rabat",
+              "value": "93",
+              "extracted_value": 93
+            }
+          ]
+        },
+        {
+          "date": "Oct 2023",
+          "timestamp": "1696118400",
+          "values": [
+            {
+              "query": "rabat",
+              "value": "94",
+              "extracted_value": 94
+            }
+          ]
+        },
+        {
+          "date": "Nov 2023",
+          "timestamp": "1698796800",
+          "values": [
+            {
+              "query": "rabat",
+              "value": "85",
+              "extracted_value": 85
+            }
+          ]
+        },
+        {
+          "date": "Dec 2023",
+          "timestamp": "1701388800",
+          "values": [
+            {
+              "query": "rabat",
+              "value": "92",
+              "extracted_value": 92
+            }
+          ]
+        },
+        {
+          "date": "Jan 2024",
+          "timestamp": "1704067200",
+          "values": [
+            {
+              "query": "rabat",
+              "value": "85",
+              "extracted_value": 85
+            }
+          ]
+        },
+        {
+          "date": "Feb 2024",
+          "timestamp": "1706745600",
+          "values": [
+            {
+              "query": "rabat",
+              "value": "94",
+              "extracted_value": 94
+            }
+          ]
+        },
+        {
+          "date": "Mar 2024",
+          "timestamp": "1709251200",
+          "values": [
+            {
+              "query": "rabat",
+              "value": "100",
+              "extracted_value": 100
+            }
+          ]
+        },
+        {
+          "date": "Apr 2024",
+          "timestamp": "1711929600",
+          "values": [
+            {
+              "query": "rabat",
+              "value": "88",
+              "extracted_value": 88
+            }
+          ]
+        },
+        {
+          "date": "May 2024",
+          "timestamp": "1714521600",
+          "values": [
+            {
+              "query": "rabat",
+              "value": "93",
+              "extracted_value": 93
+            }
+          ]
+        },
+        {
+          "date": "Jun 2024",
+          "timestamp": "1717200000",
+          "values": [
+            {
+              "query": "rabat",
+              "value": "83",
+              "extracted_value": 83
+            }
+          ]
+        },
+        {
+          "date": "Jul 2024",
+          "timestamp": "1719792000",
+          "values": [
+            {
+              "query": "rabat",
+              "value": "93",
+              "extracted_value": 93
+            }
+          ]
+        },
+        {
+          "date": "Aug 2024",
+          "timestamp": "1722470400",
+          "values": [
+            {
+              "query": "rabat",
+              "value": "91",
+              "extracted_value": 91
+            }
+          ]
+        },
+        {
+          "date": "Sep 2024",
+          "timestamp": "1725148800",
+          "values": [
+            {
+              "query": "rabat",
+              "value": "88",
+              "extracted_value": 88
+            }
+          ]
+        },
+        {
+          "date": "Oct 2024",
+          "timestamp": "1727740800",
+          "values": [
+            {
+              "query": "rabat",
+              "value": "93",
+              "extracted_value": 93
+            }
+          ]
+        },
+        {
+          "date": "Nov 2024",
+          "timestamp": "1730419200",
+          "values": [
+            {
+              "query": "rabat",
+              "value": "89",
+              "extracted_value": 89
+            }
+          ]
+        },
+        {
+          "date": "Dec 2024",
+          "timestamp": "1733011200",
+          "values": [
+            {
+              "query": "rabat",
+              "value": "87",
+              "extracted_value": 87
+            }
+          ]
+        },
+        {
+          "date": "Jan 2025",
+          "timestamp": "1735689600",
+          "values": [
+            {
+              "query": "rabat",
+              "value": "94",
+              "extracted_value": 94
+            }
+          ]
+        },
+        {
+          "date": "Feb 2025",
+          "timestamp": "1738368000",
+          "values": [
+            {
+              "query": "rabat",
+              "value": "87",
+              "extracted_value": 87
+            }
+          ]
+        },
+        {
+          "date": "Mar 2025",
+          "timestamp": "1740787200",
+          "values": [
+            {
+              "query": "rabat",
+              "value": "95",
+              "extracted_value": 95
+            }
+          ]
+        },
+        {
+          "date": "Apr 2025",
+          "timestamp": "1743465600",
+          "values": [
+            {
+              "query": "rabat",
+              "value": "98",
+              "extracted_value": 98
+            }
+          ]
+        },
+        {
+          "date": "May 2025",
+          "timestamp": "1746057600",
+          "values": [
+            {
+              "query": "rabat",
+              "value": "93",
+              "extracted_value": 93
+            }
+          ]
+        },
+        {
+          "date": "Jun 2025",
+          "timestamp": "1748736000",
+          "values": [
+            {
+              "query": "rabat",
+              "value": "86",
+              "extracted_value": 86
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "scraped_at": "2025-10-07T18:33:11.398084"
+}
