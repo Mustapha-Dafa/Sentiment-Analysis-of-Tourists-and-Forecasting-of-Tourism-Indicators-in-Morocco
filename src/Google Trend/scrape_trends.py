@@ -14,9 +14,9 @@ from datetime import datetime
 import json
 
 # ========= CONFIGURATION =========
-SERPAPI_KEY = "your api key "  # ⚠️ Remplacez par votre clé SerpAPI
-INPUT_FILE = "path of file"  # Fichier avec vos keywords
-OUTPUT_DIR = Path("google_trends_data3")
+SERPAPI_KEY = "your serapi key"  # ⚠️ Remplacez par votre clé SerpAPI
+INPUT_FILE = "src/Google Trend/keywords_clean.csv"  # Fichier avec vos keywords
+OUTPUT_DIR = Path("src/Google Trend/google_trends_data_test")
 
 # Paramètres de scraping
 START_DATE = "2010-01-01"
@@ -27,7 +27,7 @@ MAX_RETRIES = 3  # Tentatives max par keyword en cas d'erreur
 
 # Fichiers de tracking
 PROGRESS_FILE = OUTPUT_DIR / "progress.json"
-CONSOLIDATED_FILE = OUTPUT_DIR / "all_trends_consolidated.csv"
+CONSOLIDATED_FILE = OUTPUT_DIR / "all_trends_consolidated_test.csv"
 
 # ========= INITIALISATION =========
 OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
@@ -122,8 +122,8 @@ def save_keyword_data(result, keyword):
         timeline_df["keyword"] = keyword
         timeline_df["scraped_at"] = datetime.now().isoformat()
         
-        timeline_file = OUTPUT_DIR / f"{safe_name}_timeline.csv"
-        timeline_df.to_csv(timeline_file, index=False)
+        # timeline_file = OUTPUT_DIR / f"{safe_name}_timeline.csv"
+        # timeline_df.to_csv(timeline_file, index=False)
         
         # 2. Ajout au fichier CONSOLIDÉ (pour analyse globale)
         if CONSOLIDATED_FILE.exists():
@@ -134,11 +134,11 @@ def save_keyword_data(result, keyword):
         consolidated.to_csv(CONSOLIDATED_FILE, index=False)
     
     # 3. JSON complet (backup raw)
-    json_file = OUTPUT_DIR / f"{safe_name}_raw.json"
-    result_copy = result.copy()
-    result_copy["scraped_at"] = datetime.now().isoformat()
-    with open(json_file, "w", encoding="utf-8") as f:
-        json.dump(result_copy, f, indent=2, ensure_ascii=False)
+    # json_file = OUTPUT_DIR / f"{safe_name}_raw.json"
+    # result_copy = result.copy()
+    # result_copy["scraped_at"] = datetime.now().isoformat()
+    # with open(json_file, "w", encoding="utf-8") as f:
+    #     json.dump(result_copy, f, indent=2, ensure_ascii=False)
 
 def main():
     """Fonction principale avec SAUVEGARDE PROGRESSIVE"""
