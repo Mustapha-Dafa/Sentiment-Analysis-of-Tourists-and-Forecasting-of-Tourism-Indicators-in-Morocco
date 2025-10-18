@@ -14,9 +14,9 @@ from datetime import datetime
 import json
 
 # ========= CONFIGURATION =========
-SERPAPI_KEY = "your serapi key"  # ⚠️ Remplacez par votre clé SerpAPI
-INPUT_FILE = "src/Google Trend/keywords_clean.csv"  # Fichier avec vos keywords
-OUTPUT_DIR = Path("src/Google Trend/google_trends_data_test")
+SERPAPI_KEY = "98ad43c2d8697c6dbb1b525d9cb283b88221b7f4cc67bdbdc1b2e717c3a86ae8"  # ⚠️ Remplacez par votre clé SerpAPI
+INPUT_FILE = "src/Google Trend/data/keyword_test.csv"  # Fichier avec vos keywords
+OUTPUT_DIR = Path("src/Google Trend/google_trends_data_test_2")
 
 # Paramètres de scraping
 START_DATE = "2010-01-01"
