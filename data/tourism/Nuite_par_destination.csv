@@ -1,4 +1,4 @@
-Date,Destination,Nuité
+date,destination,nuité
 06-2025,Essaouira,55700
 06-2025,Al Haouz,71991
 06-2025,Agadir,560175
@@ -1063,7 +1063,6 @@ Date,Destination,Nuité
 01-2013,Rabat,41946
 01-2013,Tétouan,13084
 12-2012,Tanger,10630
-12-2012,TOTAL_National,1209277
 12-2012,Rabat,47796
 12-2012,Ouarzazate,22483
 12-2012,Meknès,16579
@@ -1081,7 +1080,6 @@ Date,Destination,Nuité
 11-2012,Meknès,17719
 11-2012,Marrakech,458810
 11-2012,Rabat,52605
-11-2012,TOTAL_National,1303983
 11-2012,Tanger,11415
 11-2012,Tétouan,19228
 10-2012,Ouarzazate,43267
@@ -1092,7 +1090,6 @@ Date,Destination,Nuité
 10-2012,Meknès,17498
 10-2012,Tétouan,70534
 10-2012,Rabat,53074
-10-2012,TOTAL_National,1533702
 10-2012,Tanger,26091
 10-2012,Agadir,363537
 09-2012,Casablanca,165793
@@ -1104,7 +1101,6 @@ Date,Destination,Nuité
 09-2012,Tanger,76784
 09-2012,Ouarzazate,29808
 09-2012,Rabat,53271
-09-2012,TOTAL_National,1722651
 09-2012,Meknès,17731
 08-2012,Meknès,12231
 08-2012,Agadir,572394
@@ -1113,7 +1109,6 @@ Date,Destination,Nuité
 08-2012,Casablanca,133900
 08-2012,Ouarzazate,19719
 08-2012,Rabat,32949
-08-2012,TOTAL_National,1822884
 08-2012,Tanger,82744
 08-2012,Tétouan,96615
 08-2012,Marrakech,589805
@@ -1123,7 +1118,6 @@ Date,Destination,Nuité
 07-2012,Marrakech,511981
 07-2012,Agadir,503873
 07-2012,Rabat,46172
-07-2012,TOTAL_National,1702036
 07-2012,Tanger,97418
 07-2012,Tétouan,88175
 07-2012,Casablanca,133359
@@ -1138,7 +1132,6 @@ Date,Destination,Nuité
 06-2012,Meknès,14878
 06-2012,Rabat,59540
 06-2012,Ouarzazate,20218
-06-2012,TOTAL_National,1465909
 05-2012,Meknès,13217
 05-2012,Casablanca,150596
 05-2012,Errachidia,7370
@@ -1149,10 +1142,8 @@ Date,Destination,Nuité
 05-2012,Rabat,51956
 05-2012,Marrakech,517082
 05-2012,Tanger,72258
-05-2012,TOTAL_National,1470336
 04-2012,Tétouan,19268
 04-2012,Tanger,74068
-04-2012,TOTAL_National,1675203
 04-2012,Ouarzazate,53733
 04-2012,Meknès,24342
 04-2012,Marrakech,657252
@@ -1163,7 +1154,6 @@ Date,Destination,Nuité
 04-2012,Rabat,55560
 03-2012,Tanger,65217
 03-2012,Tétouan,14489
-03-2012,TOTAL_National,1306297
 03-2012,Rabat,54297
 03-2012,Ouarzazate,32490
 03-2012,Meknès,18018
@@ -1179,13 +1169,11 @@ Date,Destination,Nuité
 02-2012,Meknès,16087
 02-2012,Ouarzazate,21651
 02-2012,Rabat,49541
-02-2012,TOTAL_National,1199252
 02-2012,Tanger,51412
 02-2012,Tétouan,12581
 02-2012,Agadir,307227
 01-2012,Tétouan,11132
 01-2012,Tanger,59919
-01-2012,TOTAL_National,1072600
 01-2012,Rabat,45450
 01-2012,Ouarzazate,17042
 01-2012,Meknès,12909
