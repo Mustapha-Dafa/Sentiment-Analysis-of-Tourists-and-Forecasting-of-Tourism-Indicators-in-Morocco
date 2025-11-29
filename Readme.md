@@ -30,5 +30,5 @@ See Requirements.txt for pinned versions. Primary packages used:
 - matplotlib, seaborn, plotly
 - streamlit, streamlit-option-menu
 - requests, beautifulsoup4, lxml, selenium, pytrends
-- wordcloud, tqdm, joblib
+- wordcloud, tqdm, joblib,openpyxl
 
