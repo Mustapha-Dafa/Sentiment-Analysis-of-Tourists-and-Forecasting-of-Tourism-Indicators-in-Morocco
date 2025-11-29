@@ -12,6 +12,7 @@ from io import BytesIO
 import time
 from streamlit_option_menu import option_menu
 from statsmodels.tsa.statespace.sarimax import SARIMAX
+from pathlib import Path
 
 VARIABLES_CONFIG = {
     "TES": {
@@ -27,6 +28,21 @@ VARIABLES_CONFIG = {
         "seasonal_order": (1, 1, 1, 12)
     }
 }
+
+
+# Obtenir le répertoire du script
+BASE_DIR = Path(__file__).parent
+
+# Définir les chemins relatifs
+DATA_DIR = BASE_DIR / "data"
+IMAGES_DIR = BASE_DIR / "images"
+
+REVIEWS_FILE = DATA_DIR / "reviews" / "reviews_classed.csv"
+KPI_FILE = DATA_DIR / "tourism" / "KPI_touristique.csv"
+NUITES_FILE = DATA_DIR / "tourism" / "Nuite_par_destination.csv"
+LOGO_FILE = IMAGES_DIR / "logo.png"
+
+
 
 # calcule des prévisions 
 def predict_simple(df , target , horizon ):
@@ -74,10 +90,10 @@ st.markdown("""
     }
     </style>
 """, unsafe_allow_html=True)
-st.sidebar.image(
-    "D:\\INSEA\\Stage PFA\\Stage Ministère de finance\\images\\logo.png",
-    #width=150  # Ajustez la largeur en pixels
-)
+if LOGO_FILE.exists():
+    st.sidebar.image(str(LOGO_FILE))
+else:
+    st.sidebar.warning("⚠️ Logo non trouvé")
 
 
 # Fonction de chargement des données
@@ -85,28 +101,42 @@ st.sidebar.image(
 def load_data():
     """Charge et prétraite les données"""
     try:
+        # Vérifier l'existence des fichiers
+        if not REVIEWS_FILE.exists():
+            st.error(f"❌ Fichier introuvable : {REVIEWS_FILE}")
+            return None, None, None, None
+        
+        if not KPI_FILE.exists():
+            st.error(f"❌ Fichier introuvable : {KPI_FILE}")
+            return None, None, None, None
+        
+        if not NUITES_FILE.exists():
+            st.error(f"❌ Fichier introuvable : {NUITES_FILE}")
+            return None, None, None, None
+        
         # Charger les données des avis
-        df_reviews = pd.read_csv("D:\\INSEA\\Stage PFA\\Stage Ministère de finance\\data\\reviews\\reviews_classed.csv")
+        df_reviews = pd.read_csv(REVIEWS_FILE)
         df_reviews['date'] = pd.to_datetime(df_reviews['date'])
         
         # Charger les données des arrivées
-        df_arrivals = pd.read_csv("D:\\INSEA\\Stage PFA\\Stage Ministère de finance\\data\\tourism\\KPI_touristique.csv")
-        df=df_arrivals.copy()
+        df_arrivals = pd.read_csv(KPI_FILE)
+        df = df_arrivals.copy()
         df_arrivals['date'] = pd.to_datetime(df_arrivals['date'])
         
-        # Charher nuité par destination 
-        df_nuites_ville = pd.read_csv("D:\\INSEA\\Stage PFA\\Stage Ministère de finance\\data\\tourism\\Nuite_par_destination.csv")
+        # Charger nuitée par destination 
+        df_nuites_ville = pd.read_csv(NUITES_FILE)
         df_nuites_ville['date'] = pd.to_datetime(df_nuites_ville['date'])
 
-        
         df['date'] = pd.to_datetime(df['date'])
         df.set_index('date', inplace=True)
         df = df.asfreq('MS')  # MS = Month Start
         df = df.sort_index()
-        return df_reviews, df_arrivals ,df , df_nuites_ville
+        
+        return df_reviews, df_arrivals, df, df_nuites_ville
+        
     except Exception as e:
         st.error(f"Erreur lors du chargement des données : {e}")
-        return None, None ,None ,None
+        return None, None, None, None
 
 # Fonction pour créer un nuage de mots
 def create_wordcloud(text_data, sentiment=None):
@@ -344,7 +374,7 @@ if df_reviews is not None and df_arrivals is not None:
             st.plotly_chart(fig, use_container_width=True)
     
     # ==================== PAGE ANALYSE SENTIMENTS ====================
-    elif page == "Analyse Sentiments":
+    elif page == "Analyse des Sentiments":
         st.title("Analyse Détaillée des Sentiments")
         st.markdown("---")
         
@@ -644,7 +674,7 @@ if df_reviews is not None and df_arrivals is not None:
 
     
     # ==================== PAGE ANALYSE ARRIVÉES ====================
-    elif page == " Analyse Arrivées":
+    elif page == " Analyse des Arrivées":
         st.title(" Analyse des Arrivées Touristiques")
         st.markdown("---")
         
@@ -1345,7 +1375,7 @@ if df_reviews is not None and df_arrivals is not None:
         
     
     # ==================== PAGE EXPLORATION AVIS ====================
-    elif page == "Exploration Avis":
+    elif page == "Exploration les Avis":
         st.title("Exploration des Avis")
         st.markdown("---")
         
